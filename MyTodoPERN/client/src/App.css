@@ -1,0 +1,23 @@
+
+h1{
+    display: flex;
+    justify-content: center
+    
+}
+.add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+form input{
+    margin: 1px;
+
+}
+td{
+padding: 2px;;
+}
+.container{
+    width: 1000px; /* Ширина блока */
+    word-wrap: break-word;
+}
